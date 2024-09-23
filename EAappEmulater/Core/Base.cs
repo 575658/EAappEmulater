@@ -194,7 +194,7 @@ public static class Base
             IsInstalled = false,
             IsEAAC = false,
             AppName = "FIFA22.exe",
-            ContentId = "196837",
+            ContentId = "2195250",
             Regedit = "SOFTWARE\\EA Sports\\FIFA 22",
             Regedit2 = "SOFTWARE\\WOW6432Node\\EA Sports\\FIFA 22",
             Locales = new() { "pt_PT", "tr_TR", "ko_KR", "cs_CZ", "zh_CN", "zh_HK", "da_DK", "no_NO", "sv_SE", "en_US", "pt_BR", "de_DE", "es_ES", "fr_FR", "it_IT", "ja_JP", "es_MX", "nl_NL", "pl_PL", "ru_RU", "ar_SA" },
